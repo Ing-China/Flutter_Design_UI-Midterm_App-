@@ -4,13 +4,13 @@
 
 Below is a screenshot of the Home screen design for the application.
 
-![Home Screen](assets/screenshots/Home_Screen.png)
+<img src="assets/screenshots/Home_Screen.png" alt="Home Screen" width="600"/>
 
 ## Screen: Cart
 
 Below is a screenshot of the Cart screen design for the application.
 
-![Cart Screen](assets/screenshots/Cart_Screen.png)
+<img src="assets/screenshots/Cart_Screen.png" alt="Cart Screen" width="600"/>
 
 ## Installation and Running
 
@@ -19,6 +19,9 @@ Follow these steps to clone and set up the project on your local machine.
 # Clone the repository
 
 git clone https://github.com/Ing-China/Flutter_Design_UI_Midterm_App.git
+
+# Go to that folder
+
 cd Flutter_Design_UI_Midterm_App
 
 # Install dependencies
