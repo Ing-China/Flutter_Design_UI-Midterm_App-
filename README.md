@@ -2,7 +2,7 @@
 
 ## Screen: Home
 
-Below is a screenshot of the Home screen design for the application.
+<!-- Below is a screenshot of the Home screen design for the application.
 
 <img src="assets/screenshots/Home_Screen.png" alt="Home Screen" width="200"/>
 
@@ -10,7 +10,16 @@ Below is a screenshot of the Home screen design for the application.
 
 Below is a screenshot of the Cart screen design for the application.
 
-<img src="assets/screenshots/Cart_Screen.png" alt="Cart Screen" width="200"/>
+<img src="assets/screenshots/Cart_Screen.png" alt="Cart Screen" width="200"/> -->
+
+## Screens
+
+Below are screenshots of the Home and Cart screens for the application.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/screenshots/Home_Screen.png" alt="Home Screen" style="width: 35%;"/>
+  <img src="assets/screenshots/Cart_Screen.png" alt="Cart Screen" style="width: 35%;"/>
+</div>
 
 ## Installation and Running
 
