@@ -1,17 +1,5 @@
 # Design UI for (Midterm Example)
 
-## Screen: Home
-
-<!-- Below is a screenshot of the Home screen design for the application.
-
-<img src="assets/screenshots/Home_Screen.png" alt="Home Screen" width="200"/>
-
-## Screen: Cart
-
-Below is a screenshot of the Cart screen design for the application.
-
-<img src="assets/screenshots/Cart_Screen.png" alt="Cart Screen" width="200"/> -->
-
 ## Screens
 
 Below are screenshots of the Home and Cart screens for the application.
